@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Queue.cpp
+C:\Users\Ethan\Coding\COMP 280\Project3_Queue_and_Stack\Queue.cpp(60,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Stack.cpp
+  Generating Code...
+  Project3_Queue_and_Stack.vcxproj -> C:\Users\Ethan\Coding\COMP 280\Project3_Queue_and_Stack\x64\Debug\Project3_Queue_and_Stack.exe
